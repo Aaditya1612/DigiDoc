@@ -123,7 +123,6 @@ class _DoctorSignInState extends State<DoctorSignIn> {
                   SizedBox(
                     height: 30,
                   ),
-
                   TypeAheadField(
                       animationStart: 0,
                       animationDuration: Duration.zero,
