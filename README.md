@@ -1,4 +1,8 @@
 ## DigiDoc
+
+<img src="https://github.com/Aaditya1612/DigiDoc/assets/83654180/38356f0f-6b20-42cd-9e69-2f4889522fd5" height=50% width=50% />
+
+
 The app is a disease prediction and doctor search tool that helps patients identify their health issues and find appropriate medical help nearby. Patients can input their symptoms using a text input field with autocomplete or suggestion functionality, and the app uses machine learning algorithms to provide a list of potential diseases. The app also suggests doctors located nearby based on the patient's location and helps them schedule an appointment with the doctor. Doctors can also register their location, specialty, and availability in the app, making it easier for patients to find them. The app provides an intuitive and user-friendly interface to help patients manage their health and get the care they need.
 
 ## Problem Statement
@@ -25,17 +29,22 @@ The app uses a variety of technologies to provide a seamless and efficient user 
 
 <table>
 <tr>
+
 <td>
-<img src="https://user-images.githubusercontent.com/83654180/222330447-bdeac7ae-de8b-4b7f-af07-8fb0a91999ae.jpeg">
+<img src="https://github.com/Aaditya1612/DigiDoc/assets/83654180/5d533e74-70b7-44b4-98a0-8fc18baba7f9">
 </td>
+  </tr>
+  <tr>
 <td>
-<img src="https://user-images.githubusercontent.com/83654180/222330455-95c8c888-d9d6-445f-bd10-f1349007bb4e.jpeg">
+<img src="https://github.com/Aaditya1612/DigiDoc/assets/83654180/5d41dcf9-964c-477c-8865-9eadfd518ae5">
 </td>
+
+</tr>
+   <tr>
+
 <td>
-<img src="https://user-images.githubusercontent.com/83654180/222330460-3da8e113-4a5f-4463-85cc-1c598cf7a08e.jpeg">
+<img src="https://github.com/Aaditya1612/DigiDoc/assets/83654180/80333447-9f11-43a7-9177-ae4407d7d42e">
 </td>
-<td>
-<img src="https://user-images.githubusercontent.com/83654180/222330466-78756449-010b-4a16-bc83-f0ccc793b06b.jpeg">
-</td>
+
 </tr>
 </table>
